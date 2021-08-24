@@ -1,0 +1,4 @@
+MappingNo,ApartmentName,ReadingDate,ChargeCode,Ending Meter
+MAP001,10 B,25-02-2021,Water,125
+MAP001,10 B,25-02-2021,Electricity,145
+MAP001,10 B,25-02-2021,Gas,155
